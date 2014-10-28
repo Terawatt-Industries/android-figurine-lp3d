@@ -4,12 +4,12 @@ An homage to the designer Android figurines from Andrew Bell (http://www.deadzeb
 Honeycomb infill with transparent PLA looks pretty cool.  These parts are easy to print.  The only overhangs are the antennae.  Getting good quality on the antennae means slowing the printer down and/or a cooling fan.
 
 ## Assembly Instructions
-Print the parts and glue them together.  Use a glue with a very low expansion rating.  For PLA this can become a challenge.  Hot glue and gorilla glue seem to work best on PLA but they expand too much and leave easily noticeable artifacts on small parts like these.  Super glue and low-expansion epoxy have worked best so far.  For ABS super glue works well.
+Print the parts and glue them together.  Use a glue with a very low expansion rating.  For PLA this can become a challenge.  Hot glue and gorilla glue seem to work best on PLA but they expand too much and leave easily noticeable artifacts on small parts like these.  Super glue and low-expansion epoxy have worked best so far.  For ABS super glue works OK.  More options are discussed at https://groups.google.com/forum/#!topic/makerbot/GkRt8Kpw1K8.
 
-The figurine is very small, approximately 30mm (1.25") height.  The antennae are extremely brittle.  They shouldn't break if it falls over on itself, but they will break from a few inches higher.
+The figurine is very small, approximately 30mm (1.25") height.  The antennae are very fragile.  They shouldn't break if it falls over on itself, but they will break easily with the right impact from a few inches higher.  If you drop the assembled figurine it's almost certain that only 1 or 0 antenna will remain.
 
 ### License
-The original Android figure published by Google Inc., upon which the Dead Zebra figurines are based, is open source and published under the Apache 2.0 license.  Therefore these files are conveyed under the Apache 2.0 license.
+The original Android figure published by Google Inc., upon which the Dead Zebra figurines are based, is open source and published under the Apache 2.0 license.  These files are conveyed under the Apache 2.0 license.
 
 #### Apache License
 Copyright 2014 Longevity Software LLC, d.b.a. Terawatt Industries
