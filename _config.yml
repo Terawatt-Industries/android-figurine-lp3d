@@ -7,7 +7,7 @@
 ## Uses distinct namespace. Jekyll settings should go at the root level.
 githubiverse:
     ## Metadata
-    title: "Terawatt RAMPS, ATX Adapter, and Terminal Mounts"
+    title: "3D Printable Android Figurine"
     author: Terawatt Industries
     license: GPLv3 for SCAD.  Creative Commons 3.0 ShareAlike + Non-Commercial for ANT script (build.xml + build profiles).
     tags: [3d printer, Print3r, Print3r for Android, Android, printable, figure, figurine]
@@ -20,8 +20,8 @@ githubiverse:
         branch: master
 
     ## The names of directories where any images, source and stl files associated with the project can be found.
-    img_dir: img
-    stl_dir: dist
+    img_dir: dist/img
+    stl_dir: dist/stl
     src_dir: src
 
     ## The headline image
